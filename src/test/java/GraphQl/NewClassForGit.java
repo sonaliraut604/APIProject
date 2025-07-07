@@ -17,6 +17,12 @@ public class NewClassForGit {
 			System.out.println("add");
 		}
 		
+		public void method()
+		{
+			
+			System.out.println("third time");
+		}
+		
 		
 	}
 

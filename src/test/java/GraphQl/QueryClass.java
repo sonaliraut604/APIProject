@@ -22,6 +22,10 @@ public class QueryClass {
 		String character=path.getString("data.charcter.name");
 		Assert.assertEquals(character, "robin");
 		
+		JsonPath path1=new JsonPath(response);
+		String character1=path.getString("data.charcter.name");
+		Assert.assertEquals(character, "robin");
+		
 	}
 
 }

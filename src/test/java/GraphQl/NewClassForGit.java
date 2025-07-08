@@ -24,6 +24,12 @@ public class NewClassForGit {
 	{
 		System.out.println("i have iphone");
 	}
+
+	public void android()
+	{
+		System.out.println("i have android");
+	}
+	
 	
 		
 	}
